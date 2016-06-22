@@ -1,0 +1,5 @@
+Wrocław * 51.110 17.0301
+Zakopane * 49.298173 19.952418
+Frankfurt am Main * 50.113507 8.684286
+Buenos Aires * -34.605398 -58.373925
+Neutraubling * 48.984968 12.193773
